@@ -1,0 +1,16 @@
+
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Concepts\SmpteFrameRate\SmpteFrameRate.cs-91e540b19ca0c7ba667128ed3c63052c
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Concepts\Span\ITimeCodeTimelineContentItem.cs-2d60605d09b68028ee47917fd0ba286e
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Concepts\Span\ITimeCodeTimelineContentSpan.cs-626825f708285ed360f8a8b26c535474
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Concepts\Span\ITimeCodeTimelineItem.cs-110692eded9e2b6634e7a7c64f566ce7
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Concepts\Span\ITimeCodeTimelineSpan.cs-899182a9e38eb8a6b4ace25afaadb0fa
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Concepts\TimeCode\ITimeCode.cs-ece2449688d8e711f84b0633042ecb35
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Implementations\Span\TimeCodeTimelineContentItem.cs-382646e32b355b7da54a3e0754a3c108
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Implementations\Span\TimeCodeTimelineContentSpan.cs-63e1451bad7c364e6520429c011e99c9
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Implementations\TimeCode\TimeCode.cs-bd52d8444774f90655d0186838b3388f
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Implementations\TimeCode\TimeCodeExtensions.cs-b856b8e078ca7f2db70256f7c9ff1a06
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Implementations\TimeCode\TimeCodeHelpers.cs-d6525921b3cc054bc2efab59b8b73fb2
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Implementations\TimeCode\TimeCodeSerializer.cs-a82e8e2cd0bcee7b784482f44ef449a4
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Implementations\TimeCode\TimeCodeValueProvider.cs-5bccea76f141c895a4aaef8e57095bea
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.timecode.base\src\Maptz.TimeCode.Base\Maptz.TimeCode.Base.csproj-aa6114789fb46049dc6bb1fbf2494fb4
+
